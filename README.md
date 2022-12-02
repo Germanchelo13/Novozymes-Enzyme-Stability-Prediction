@@ -19,23 +19,23 @@ __Grupo en kaggle: unal_tae_gddj__
 
 La competencia de kaggle que se eligio es Novozymes Enzyme Stability Prediction que consiste en realizar una predicción  de la termoestabilidad de las proteinas dado su secuencian de proteina y pH, que contienen los archivos:
 
-* train.csv: los datos de entrenamiento que da kaggle.
+* __train.csv__: los datos de entrenamiento que da kaggle.
 
-* train_updates_20220929.csv: Depuración de train.csv
+* __train_updates_20220929.csv__: Depuración de train.csv
 
-* test.csv: Los datos a pronosticar para obtener un score en la competencia.
+* __test.csv__: Los datos a pronosticar para obtener un score en la competencia.
 
-* sample_submission.csv: Estructura de la predicción esperada en el reto.
+* __sample_submission.csv__: Estructura de la predicción esperada en el reto.
 
-* wildtype_structure_prediction_af2.pdb: Estructura de la proteina de referencia (no se uso). 
+* __wildtype_structure_prediction_af2.pdb__: Estructura de la proteina de referencia (no se uso). 
 
-* submit_lm.csv: predicción final con el modelo de regresión lineal.
+* __submit_lm.csv__: predicción final con el modelo de regresión lineal.
 
-* submit_xgb.csv: predicción final con el modelo de xgboost.
+* __submit_xgb.csv__: predicción final con el modelo de xgboost.
 
-* prediccion.ipynb: Código que se uso para las predicciones.
+* __prediccion.ipynb__: Código que se uso para las predicciones.
 
-* correlacion_modelos.csv: Resultados de modelos de regresión lineal con combinaciones de variables.
+* __correlacion_modelos.csv__: Resultados de modelos de regresión lineal con combinaciones de variables.
 
 
 
